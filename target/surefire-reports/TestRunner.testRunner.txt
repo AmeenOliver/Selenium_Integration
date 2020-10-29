@@ -1,0 +1,31 @@
+-------------------------------------------------------------------------------
+Test set: TestRunner.testRunner
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 33.823 sec <<< FAILURE! - in TestRunner.testRunner
+check Google Search successfully(Test Check for Google Search)  Time elapsed: 24.794 sec  <<< ERROR!
+org.openqa.selenium.NoSuchSessionException: 
+
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Von.local', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.4', java.version: '14.0.1'
+Driver info: org.openqa.selenium.safari.SafariDriver
+Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 13.1, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 19E287, safari:platformVersion: 10.15.4, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}}
+Session ID: AB933A71-1109-43CD-873C-50BDA98CE23B
+
+check Google Search successfully(Test Check for Google Search)  Time elapsed: 3.945 sec  <<< ERROR!
+org.openqa.selenium.NoSuchSessionException: 
+
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Von.local', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.4', java.version: '14.0.1'
+Driver info: org.openqa.selenium.safari.SafariDriver
+Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 13.1, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 19E287, safari:platformVersion: 10.15.4, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}}
+Session ID: 9F50ED9D-AE75-4EB3-8B9E-684654F6EC96
+
+check Google Search successfully(Test Check for Google Search)  Time elapsed: 4.826 sec  <<< ERROR!
+org.openqa.selenium.NoSuchSessionException: 
+
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Von.local', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.4', java.version: '14.0.1'
+Driver info: org.openqa.selenium.safari.SafariDriver
+Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 13.1, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 19E287, safari:platformVersion: 10.15.4, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}}
+Session ID: E061EB16-1E76-45A1-80CA-69D1F5591844
+
